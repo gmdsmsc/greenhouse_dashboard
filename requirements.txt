@@ -1,0 +1,9 @@
+streamlit
+plotly
+openpyxl
+SQLAlchemy
+pandas
+geopy
+openmeteo_requests
+requests_cache
+psycopg2-binary
